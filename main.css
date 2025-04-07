@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(22, 44, 29);
+    color:rgb(240, 248, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 24px;
+}
+
+.title {
+    font-size: 32px;
+    color:rgb(134, 224, 157)
+}
+
+.list-item {
+    margin-bottom: 24px;
+    font-size: 24px;
+}
+input {
+    height: 28px;
+    background-color: transparent;
+    border-color: rgb(134, 224, 157);
+    border-radius: 12px;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(134, 224, 157);
+    padding: 12px;
+}
+
+button {
+    height: 40px;
+    border-radius: 12px;
+    border-color: rgb(134, 224, 157);
+    font-size: 14px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(134, 224, 157);
+    background-color:rgb(5, 51, 17);
+    padding: 12px;
+}
